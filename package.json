@@ -1,0 +1,15 @@
+{
+  "name": "hxbot",
+  "version": "1.0.0",
+  "description": "HX1 225 Faidherbe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Théophile Cailliau (FliiFe)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "seedrandom": "^2.4.4"
+  }
+}
